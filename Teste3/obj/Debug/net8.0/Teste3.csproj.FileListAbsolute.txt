@@ -1,0 +1,14 @@
+C:\Users\Arthur\Desktop\TargetTestes\Teste3\bin\Debug\net8.0\Teste3.exe
+C:\Users\Arthur\Desktop\TargetTestes\Teste3\bin\Debug\net8.0\Teste3.deps.json
+C:\Users\Arthur\Desktop\TargetTestes\Teste3\bin\Debug\net8.0\Teste3.runtimeconfig.json
+C:\Users\Arthur\Desktop\TargetTestes\Teste3\bin\Debug\net8.0\Teste3.dll
+C:\Users\Arthur\Desktop\TargetTestes\Teste3\bin\Debug\net8.0\Teste3.pdb
+C:\Users\Arthur\Desktop\TargetTestes\Teste3\obj\Debug\net8.0\Teste3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Desktop\TargetTestes\Teste3\obj\Debug\net8.0\Teste3.AssemblyInfoInputs.cache
+C:\Users\Arthur\Desktop\TargetTestes\Teste3\obj\Debug\net8.0\Teste3.AssemblyInfo.cs
+C:\Users\Arthur\Desktop\TargetTestes\Teste3\obj\Debug\net8.0\Teste3.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\TargetTestes\Teste3\obj\Debug\net8.0\Teste3.dll
+C:\Users\Arthur\Desktop\TargetTestes\Teste3\obj\Debug\net8.0\refint\Teste3.dll
+C:\Users\Arthur\Desktop\TargetTestes\Teste3\obj\Debug\net8.0\Teste3.pdb
+C:\Users\Arthur\Desktop\TargetTestes\Teste3\obj\Debug\net8.0\Teste3.genruntimeconfig.cache
+C:\Users\Arthur\Desktop\TargetTestes\Teste3\obj\Debug\net8.0\ref\Teste3.dll
